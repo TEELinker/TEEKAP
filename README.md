@@ -1,1 +1,1 @@
-Prototype of TEEKAP is temporarily available at https://github.com/MingyuanGao/TEEKAP.
+Prototype of TEEKAP is temporarily maintained at https://github.com/MingyuanGao/TEEKAP.
